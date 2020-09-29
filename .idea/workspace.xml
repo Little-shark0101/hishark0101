@@ -17,6 +17,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\dell\Desktop\GitTest\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -64,18 +71,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601360830054</updated>
-      <workItem from="1601360833224" duration="602000" />
+      <workItem from="1601360833224" duration="869000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1601361610482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601361610483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="26" key="#Project_Structure" timestamp="1601361193040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601361193040" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1601361608223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601361608223" />
     <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1601361458555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -88,5 +111,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="170" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601361432003" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1601361700421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601361700421" />
   </component>
 </project>
